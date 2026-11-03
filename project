@@ -1,0 +1,8 @@
+my-multi-container-app/
+├── app/
+│   ├── index.js
+│   ├── package.json
+│   └── Dockerfile
+├── .gitignore
+├── docker-compose.yml
+└── README.md
